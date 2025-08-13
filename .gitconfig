@@ -1,0 +1,9 @@
+[user]
+	name = Mithilesh Gautam
+	email = 94349309+iammgautam@users.noreply.github.com
+[color]
+	ui = auto
+[core]
+	editor = nano -l -w
+[init]
+	defaultBranch = main
